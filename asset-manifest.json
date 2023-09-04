@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/ashish_portfolio/static/css/main.ac2eaeb5.css",
+    "main.js": "/ashish_portfolio/static/js/main.2f31b3c8.js",
+    "static/media/Blog_App.png": "/ashish_portfolio/static/media/Blog_App.68f6cf34a55c2a785e12.png",
+    "static/media/HMS.JPG": "/ashish_portfolio/static/media/HMS.132cae6a1e12a0097f70.JPG",
+    "static/media/ProfileImg.jpeg": "/ashish_portfolio/static/media/ProfileImg.fc9433bd8d74f845ae64.jpeg",
+    "static/media/SCM.JPG": "/ashish_portfolio/static/media/SCM.83ea0dbbd234491d07c4.JPG",
+    "static/media/java.png": "/ashish_portfolio/static/media/java.44037e2bc8ca81bc20a1.png",
+    "static/media/reactImg.png": "/ashish_portfolio/static/media/reactImg.017ad0116202da9dba00.png",
+    "static/media/mysql.png": "/ashish_portfolio/static/media/mysql.4672ea0f0dcbcaf4f15a.png",
+    "static/media/css.png": "/ashish_portfolio/static/media/css.395693ed1662341a3947.png",
+    "static/media/postman.png": "/ashish_portfolio/static/media/postman.2044f282fc6933d07608.png",
+    "static/media/html.png": "/ashish_portfolio/static/media/html.f2c0d5635d4b382e07e0.png",
+    "static/media/hibernate.png": "/ashish_portfolio/static/media/hibernate.a41f0f5caa33968c4edb.png",
+    "static/media/springboot.png": "/ashish_portfolio/static/media/springboot.a23dd92a9b8faef6c500.png",
+    "index.html": "/ashish_portfolio/index.html",
+    "main.ac2eaeb5.css.map": "/ashish_portfolio/static/css/main.ac2eaeb5.css.map",
+    "main.2f31b3c8.js.map": "/ashish_portfolio/static/js/main.2f31b3c8.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ac2eaeb5.css",
+    "static/js/main.2f31b3c8.js"
+  ]
+}
