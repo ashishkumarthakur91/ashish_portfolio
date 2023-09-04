@@ -3,9 +3,7 @@ import html from "../assets/skills/html.png"
 import css from "../assets/skills/css.png"
 import bootstrap from "../assets/skills/bootstrap.png"
 import java from "../assets/skills/java.png"
-import github from "../assets/skills/github.png"
 import postman from "../assets/skills/postman.png"
-
 import springboot from "../assets/skills/springboot.png"
 import hibernate from "../assets/skills/hibernate.png"
 import reactImg from "../assets/skills/reactImg.png"
@@ -62,12 +60,6 @@ const Skill = () => {
             title: "MYSQL",
             style: "shadow-sky-600"
         },
-        // {
-        //     id:9,
-        //     src:github,
-        //     title: "Github",
-        //     style: "shadow-gray-500"
-        // },
         {
             id:9,
             src:postman,
@@ -79,7 +71,7 @@ const Skill = () => {
 
   return (
 
-        <div className='max-w-screen-lg mx-auto p-4 flex flex-col justify-center w-full h-full ' >
+        <div className='max-w-screen-lg mx-auto p-4 flex flex-col justify-center w-full h-full'>
 
             <div className='text-center mt-20'>
                 <p className='text-4xl p-2 font-bold inline border-b-4 border-gray-500'>Skills</p>
