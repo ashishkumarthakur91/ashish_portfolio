@@ -17,7 +17,7 @@ const Profile = () => {
         },       
         {
             id:3,
-            link:"https://github.com/MrThakurProgrammer",
+            link:"https://github.com/ashishkumarthakur91/",
             icon:<FaGithub />
         },
         {
